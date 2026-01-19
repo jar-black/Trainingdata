@@ -5,7 +5,7 @@ Training datasets and notebooks for fine-tuning LLMs on Swedish poetry translati
 ## Contents
 
 ### English to Swedish Poetry Translation
-- `data/english_to_swedish_poetry_translation.json`: 25 translation examples in Alpaca format for English-to-Swedish poetry translation
+- `data/english_to_swedish_poetry_translation.json`: 56 translation examples in Alpaca format for English-to-Swedish poetry translation
 - `notebooks/unsloth_translation_training.ipynb`: Complete Jupyter workflow to train a poetry translator using Unsloth with `llama-3.2-3b-instruct` on RTX 3060 12GB GPU
 
 ### Swedish Poets Poetry Collections

@@ -11,6 +11,16 @@
   },
   {
     "instruction": "Translate the following English poem to Swedish.",
+    "input": "And from his mind the ancient faith\nIn dreams itself is pouring:\nShall the weary earth at last\nHave enough of pain and toil?\nWhen will summer come and all go well,\nSo the sun may warm the soul\nAnd the heart of things themselves?\nWhen will all journey and show be done?\nAnd the great lights' love\nShine over earth?",
+    "output": "Och ur hans håg' de gamla tror\nsig i drömmar gjuta:\nMånne den levnadsleda jord\nfått nog av kval och slita?\nNär blir det sommar och går allting väl,\nså att solen värmer själ\noch självaste tingens hjärta?\nNär blir det över all färd och flärd?\nOch de stora ljusens kärlek\nstrålar över järd?"
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "Still is the cottage, each question dumb.\nOn the little goblin did fall:\nThe plain lies round the farm so numb,\nDark under midnight's pall,\nAnd in the midwinter moon's cold beams,\nThere he stands so lone and clean,\nGray against the white snowdrift—\nThe goblin on the barn keeps watch.",
+    "output": "Tyst är stugan, var fråga dum.\nPå den puttrade tomten:\nSlätten ligger, kring gården stum,\nmörk under midnattstomten,\noch i midvintermånens sken,\nstår där så ensam, kall och ren,\ngrå mot den vita driva —\ntomten på låven vaka."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
     "input": "The Nameless and Immortal\n\nI know not their names. I never heard\na ballad sung of them.\nNot the memory of a single deed remains.\nBut it is them I see\nwhen the sun sinks behind the mountains,\nwhen twilight settles over earth,\nwhen thirty thousand years\nlike smoke from the campfire's hearth\nvanish before me.",
     "output": "De namnlösa och odödliga\n\nJag vet ej deras namn. Jag hörde aldrig\nen visa sjungas om dem.\nEj minnet af ett enda verk är qvar.\nMen det är dem jag ser\nnär solen dalar bakom fjäll,\nnär skymningen sig sänker öfver jorden,\nnär trettio årtusenden\nlikt rök från lägrens härd\nförsvinna inför mig."
   },
@@ -28,6 +38,71 @@
     "instruction": "Translate the following English poem to Swedish.",
     "input": "At Persepolis\n\nHere stood a palace,\nhere stood a stairway's last step remaining,\nhere is a pillar,\nand pillar and step are white.\nHere sat an empire\nthat seemed forever,\nand here was the sound of the banquet's song\nand the scent of fruits and the scent of wine\nand the lyre and the kithara.",
     "output": "Vid Persepolis\n\nHär stod ett palats,\nhär stod en trappas sista trappsteg kvar,\nhär är en pelare,\noch pelare och trappsteg äro hvita.\nHär satt ett kejsardöme\nsom tycktes för evigt,\noch här var ljud af gästabudens sång\noch frukternas doft och vinets doft\noch lyran och kitharan."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "The Grave of Conrad\n\nWhat know I of my father\nmore than that his gravestone stands\namong the cypresses in Montagnola?\n\nWhat know I of his countenance more than what\nI've seen on a gilded medallion\nwith gold leaf worn away?",
+    "output": "Konrads grav\n\nHvad vet jag om min fader\nmer än att hans grafsten står\nbland cypresserna i Montagnola?\n\nHvad vet jag om hans åsyn mer än hvad\njag sett på ett förgildt medaljong\nmed bladguld slitet?"
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "And of his soul\nwhat know I more\nthan that it was a dreamer's soul,\na soul that believed\nin eternal life's mystery\nand never in corruption's?",
+    "output": "Och om hans själ\nhvad vet jag mer\nän att han var en drömmares själ,\nen själ som trodde\npå evigt lifs mysterium\noch aldrig på förruttnelsens?"
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "Now he lies in Montagnola\nand the sun goes up and down\nand up and down\nover his grave,\nand the day comes and goes\nand comes and goes\nforever,\nand he knows it not more.",
+    "output": "Nu ligger han i Montagnola\noch solen går upp och ned\noch upp och ned\nöfver hans graf,\noch dagen kommer och går\noch kommer och går\nför evigt,\noch han vet det ej mer."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "Yet! Perhaps he knows it.\nPerhaps he still lives\nin the light and in the wind,\nin the flowers and the grass\nand all that's beautiful.",
+    "output": "Dock! Kanske vet han det.\nKanske lever han ännu\ni ljuset och i vinden,\ni blommorna och gräset\noch allt hvad vackert är."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "Autumn's Death\n\nNow autumn dies.\nNow the grass withers and pales.\nNow the clouds grow darker.\nNow the leaves fall and wither.\nNow the sun goes lower and lower\nalong the sky down.",
+    "output": "Höstens död\n\nNu dör hösten.\nNu hvissnar gräset och bleknar.\nNu bli skyarne mörkare.\nNu faller löfven och vissna.\nNu går solen lägre och lägre\nlängs himmeln ned."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "How many autumns have died before!\nHow many autumns shall die!\nIt is always the same way,\nthe same journey toward winter's darkness.",
+    "output": "Hur många höstar ha dött förr!\nHur många höstar skola dö!\nDet är alltid samma sätt,\nsamma resa mot vinterns mörker."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "But every autumn that dies\nis nevertheless new and wonderful,\nas if no autumn\nhad died before.",
+    "output": "Men hvarje höst som dör\när likväl ny och underbar,\nsom om ingen höst\nhade dött förr."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "See now how the leaves fall!\nIt is as if they fell for the first time.\nIt is as if no autumn\nhad gone toward the darkness before.",
+    "output": "Se nu hur löfven falla!\nDet är som om de föllo för första gången.\nDet är, som om ingen höst\nhade gått mot mörkret förut."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "Now autumn dies again.\nNow it dies once more.\nIt dies and dies and dies,\neternally it dies\nand is eternally young.",
+    "output": "Nu dör hösten igen.\nNu dör den än en gång.\nDen dör och dör och dör,\nevigt dör den\noch är evigt ung."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "Jacopone da Todi\n\nHow fair, how fair to die!\nTo crumble down to mould beneath\nthe dusky cypress! How fair\nto lonely, forgot, vanish,\nto be nothing more than dust,\nto have all transformed, not even a slight\nbone-remnant left in the grave!",
+    "output": "Jacopone da Todi\n\nHur fagert, hur fagert att dö!\nAtt smulas ned till mullen under\nden dunkla cypressen! Hur fagert\natt ensam, glömd, försvinna,\natt ingenting bli mer än stoft,\natt allt förvandlas, att ej ens en ringa\nbenrest få ligga qvar i grafven!"
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "How fair, how fair to die!\nTo know: It is ended!\nNo more daylight more, no more\nthe fair spring with its joy,\nno flower more or the wind's sough!\nNo more hope, no bitter pain,\nno temptation, no strife!",
+    "output": "Hur fagert, hur fagert att dö!\nAtt veta: Det är slut!\nEj mera dagsljus mera, ej mera\nden fagra våren med sin fröjd,\nej blomman mera eller vindens sus!\nEj mera hoppet, ej den bittra smärtan,\nej frestelsen, ej striden!"
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "How fair, how fair to die!\nTo close oneself from all, to lonely\nwalk into the darkness and become naught,\nto escape anguish more,\nto escape tears, evil, lies,\nto escape all!",
+    "output": "Hur fagert, hur fagert att dö!\nAtt sluta sig från allt, att ensam\ngå in i mörkret och bli intet,\natt slippa ångest mera,\natt slippa tårar, ondska, lögn,\natt slippa allt!"
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "O death's repose, thou white, mute one,\nthou most wonderful of all\nthat exists here on earth!",
+    "output": "O dödens ro, du hvita, stumma,\ndu allra underbaraste af allt\nsom finnes här på jorden!"
   },
   {
     "instruction": "Translate the following English text to Swedish.",
@@ -128,5 +203,95 @@
     "instruction": "Translate the following English text to Swedish.",
     "input": "Ponders, though it cannot help,\nOver a curious riddle.",
     "output": "grubblar, fast ej det lär båta,\növer en underlig gåta."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Now autumn dies.",
+    "output": "Nu dör hösten."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Now the grass withers and pales.",
+    "output": "Nu hvissnar gräset och bleknar."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Now the leaves fall and wither.",
+    "output": "Nu faller löfven och vissna."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "How many autumns have died before!\nHow many autumns shall die!",
+    "output": "Hur många höstar ha dött förr!\nHur många höstar skola dö!"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "It is always the same way,\nthe same journey toward winter's darkness.",
+    "output": "Det är alltid samma sätt,\nsamma resa mot vinterns mörker."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "What know I of my father\nmore than that his gravestone stands\namong the cypresses in Montagnola?",
+    "output": "Hvad vet jag om min fader\nmer än att hans grafsten står\nbland cypresserna i Montagnola?"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "a soul that believed\nin eternal life's mystery\nand never in corruption's",
+    "output": "en själ som trodde\npå evigt lifs mysterium\noch aldrig på förruttnelsens"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "and the sun goes up and down\nand up and down\nover his grave",
+    "output": "och solen går upp och ned\noch upp och ned\nöfver hans graf"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "and the day comes and goes\nand comes and goes\nforever",
+    "output": "och dagen kommer och går\noch kommer och går\nför evigt"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Perhaps he still lives\nin the light and in the wind,\nin the flowers and the grass\nand all that's beautiful.",
+    "output": "Kanske lever han ännu\ni ljuset och i vinden,\ni blommorna och gräset\noch allt hvad vackert är."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "How fair, how fair to die!",
+    "output": "Hur fagert, hur fagert att dö!"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "to be nothing more than dust",
+    "output": "att ingenting bli mer än stoft"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "No more hope, no bitter pain,\nno temptation, no strife!",
+    "output": "Ej mera hoppet, ej den bittra smärtan,\nej frestelsen, ej striden!"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "to escape anguish more,\nto escape tears, evil, lies,\nto escape all!",
+    "output": "att slippa ångest mera,\natt slippa tårar, ondska, lögn,\natt slippa allt!"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "thou most wonderful of all\nthat exists here on earth!",
+    "output": "du allra underbaraste af allt\nsom finnes här på jorden!"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Shall the weary earth at last\nHave enough of pain and toil?",
+    "output": "Månne den levnadsleda jord\nfått nog av kval och slita?"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "When will summer come and all go well,\nSo the sun may warm the soul",
+    "output": "När blir det sommar och går allting väl,\nså att solen värmer själ"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "And the great lights' love\nShine over earth?",
+    "output": "Och de stora ljusens kärlek\nstrålar över järd?"
   }
 ]
