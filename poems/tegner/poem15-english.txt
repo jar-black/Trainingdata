@@ -1,0 +1,26 @@
+Frithiof's Saga (Complete)
+by Esaias Tegnér (1825)
+Translated by Rev. W. Lewery Blackley
+
+[COLLECTION NEEDED]
+
+Sources:
+- Archive.org: https://archive.org/details/frithiofssagafro00tegniala
+- Full text: https://archive.org/stream/frithiofssagafro00tegniala/frithiofssagafro00tegniala_djvu.txt
+- Project Gutenberg: https://www.gutenberg.org/ebooks/59689 (George P. Upton translation)
+- Full Text Archive: https://www.fulltextarchive.com/book/Fritofs-Saga/
+
+Description: Complete Frithiof's Saga in English.
+24 cantos. Blackley translation is recommended (from 1857).
+Has been translated 22 times into English.
+
+Alternative translators:
+- George P. Upton (Project Gutenberg #59689)
+- Longfellow (partial - only excerpts)
+- Various 19th century translations
+
+Note: This is a long epic poem. Can be collected as:
+- Complete work in one file
+- OR individual cantos in separate files (poem15-english.txt through poem38-english.txt)
+
+[Instructions: Access Archive.org or Project Gutenberg and copy complete English translation here]

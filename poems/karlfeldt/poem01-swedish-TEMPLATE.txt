@@ -1,0 +1,12 @@
+Title: Vildmarkens sång
+Author: Erik Axel Karlfeldt
+Collection: Vildmarks- och kärleksvisor
+Year: 1895
+
+[COLLECT SWEDISH TEXT FROM:]
+[Source: Projekt Runeberg - https://runeberg.org/authors/karlfeldt.html]
+[Alternative: Swedish Wikisource - https://sv.wikisource.org/wiki/Erik_Axel_Karlfeldts_dikter]
+
+[INSERT FULL POEM TEXT HERE WITH ORIGINAL LINE BREAKS]
+[Preserve all stanzas with blank lines between them]
+[Ensure Swedish characters å, ä, ö are correctly encoded]

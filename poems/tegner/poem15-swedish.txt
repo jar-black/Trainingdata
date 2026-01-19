@@ -1,0 +1,19 @@
+Frithiofs saga (Komplett)
+av Esaias Tegnér (1825)
+
+[COLLECTION NEEDED]
+
+Source: Projekt Runeberg
+- http://runeberg.org/tepoems/
+- Swedish Wikisource
+- Project Gutenberg Swedish edition: https://www.gutenberg.org/ebooks/8518
+
+Description: Complete Frithiof's Saga - Tegnér's masterpiece from 1825.
+Epic romance cycle based on Old Norse legend.
+24 cantos telling the story of Frithiof and Ingeborg.
+
+Note: This is a long epic poem. Can be collected as:
+- Complete work in one file
+- OR individual cantos in separate files (poem15-swedish.txt through poem38-swedish.txt)
+
+[Instructions: Access Projekt Runeberg or Gutenberg and copy complete Swedish text here]
