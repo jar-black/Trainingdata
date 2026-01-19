@@ -1,0 +1,132 @@
+[
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "The House-Goblin\nby Viktor Rydberg\n\nMidwinter's cold is hard to bear,\nThe stars are sparkling, gleaming there.\nAll sleep on the lonely farm\nDeep in the midnight calm.\nThe moon walks her silent way,\nThe snow shines white on fir trees gray,\nThe snow shines white on the buildings.\nOnly the goblin is waking.",
+    "output": "Tomten\nav Viktor Rydberg\n\nMidvinternattens köld är hård,\nstjärnorna gnistra och glimma.\nAlla sova i enslig gård\ndjupt under midnattstimma.\nMånen vandrar sin tysta ban,\nsnön lyser vit på fur och gran,\nsnön lyser vit på taken.\nEndast tomten är vaken."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "There he stands so gray at the stable door,\nGray against the white snowdrifts,\nGazes, as many winters before,\nUp at the moon's bright disc,\nGazes toward the forest, where spruce and fir\nDraw round the farm a sheltering wall,\nPonders, though it cannot help,\nOver a curious riddle.",
+    "output": "Står där så grå vid ladugårdsdörr,\ngrå mot den vita driva,\ntittar, som många vintrar förr,\nupp emot månens skiva,\ntittar mot skogen, där gran och fur\ndrar kring gården en vallasmur,\ngrubblar, fast ej det lär båta,\növer en underlig gåta."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "The Nameless and Immortal\n\nI know not their names. I never heard\na ballad sung of them.\nNot the memory of a single deed remains.\nBut it is them I see\nwhen the sun sinks behind the mountains,\nwhen twilight settles over earth,\nwhen thirty thousand years\nlike smoke from the campfire's hearth\nvanish before me.",
+    "output": "De namnlösa och odödliga\n\nJag vet ej deras namn. Jag hörde aldrig\nen visa sjungas om dem.\nEj minnet af ett enda verk är qvar.\nMen det är dem jag ser\nnär solen dalar bakom fjäll,\nnär skymningen sig sänker öfver jorden,\nnär trettio årtusenden\nlikt rök från lägrens härd\nförsvinna inför mig."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "The Pilgrims\n\nWe are whitening pilgrims,\nwith staff and sash and wreath\nand hanging rosaries,\nwho linger by the wayside and rest.",
+    "output": "Vallfärdarna\n\nVi äro hvitnande vallfärdare,\nmed staf och skärp och krans\noch hängande rosenkransar,\nsom dröja vid vägen och hvila."
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "We sing our song—\nour glance looks backward—\nlong have we wandered\nand the end is near.\n\nFeel how warm\nand glorious the noon sun is!\nFeel how still and sweet\nthe grassy slope is!",
+    "output": "Vi synge vår visa —\nvårt blick ser bakåt —\nlänge ha vi vandrat\noch slutet är nära.\n\nKänn, huru varm\noch härlig middagssolen är!\nKänn, hur stilla och ljuf\nden gräsgröna backen är!"
+  },
+  {
+    "instruction": "Translate the following English poem to Swedish.",
+    "input": "At Persepolis\n\nHere stood a palace,\nhere stood a stairway's last step remaining,\nhere is a pillar,\nand pillar and step are white.\nHere sat an empire\nthat seemed forever,\nand here was the sound of the banquet's song\nand the scent of fruits and the scent of wine\nand the lyre and the kithara.",
+    "output": "Vid Persepolis\n\nHär stod ett palats,\nhär stod en trappas sista trappsteg kvar,\nhär är en pelare,\noch pelare och trappsteg äro hvita.\nHär satt ett kejsardöme\nsom tycktes för evigt,\noch här var ljud af gästabudens sång\noch frukternas doft och vinets doft\noch lyran och kitharan."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Midwinter's cold is hard to bear,\nThe stars are sparkling, gleaming there.",
+    "output": "Midvinternattens köld är hård,\nstjärnorna gnistra och glimma."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "All sleep on the lonely farm\nDeep in the midnight calm.",
+    "output": "Alla sova i enslig gård\ndjupt under midnattstimma."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "The moon walks her silent way,\nThe snow shines white on fir trees gray,\nThe snow shines white on the buildings.\nOnly the goblin is waking.",
+    "output": "Månen vandrar sin tysta ban,\nsnön lyser vit på fur och gran,\nsnön lyser vit på taken.\nEndast tomten är vaken."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Where are they now,\nthey who sat at table with the banquet's song?\nWhere is now the wine, where is the fruit,\nwhere is now the lyre and the kithara?",
+    "output": "Var äro de nu,\nde som sutto vid bordet med gästabudens sång?\nVar är nu vinet, var är frukten,\nvar är nu lyran och kitharan?"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "There are no more days,\nno time and no year.\nThere is no more spring\nand no autumn.\nThere is only now,\nthis only sweet, long now.",
+    "output": "Det finnes inga dagar mera,\ningen tid och intet år.\nDet finnes ingen vår mer\noch ingen höst.\nDet finnes endast nu,\ndetta enda ljufva, långa nu."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "We must rise and go.\nWe must leave the green\nand our rest and our laughter,\nrise and go\nthe last steps, the short steps,\nthat remain.",
+    "output": "Vi måste resa oss och gå.\nVi måste lämna det gröna\noch vår hvila och vårt skratt,\nresa oss och gå\nde sista steg, de korta steg,\nsom återstå."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Farewell now, grassy slope!\nFarewell now, warm sun!\nFeel how good,\nhow still and how good,\nour rest was!",
+    "output": "Farväl nu, gräsgröna backe!\nFarväl nu, varma sol!\nKänn hur godt,\nhur stilla och hur godt,\nvår hvila var!"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Where are all they who loved,\nwho sought, who found,\nwho were kissed and who kissed,\nwho were born and who died?",
+    "output": "Var äro alla de som älskade,\nsom sökte, som funno,\nsom kysstes och som kysste,\nsom föddes och som dogo?"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Behold! Behold!\nA single pillar that stands remaining\nand a step, white and desolate.",
+    "output": "Se! Se!\nEn enda pelare som står qvar\noch ett trappsteg, hvitt och ödsligt."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "I know not their names. I never heard a ballad sung of them.",
+    "output": "Jag vet ej deras namn. Jag hörde aldrig en visa sjungas om dem."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Not the memory of a single deed remains.",
+    "output": "Ej minnet af ett enda verk är qvar."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "when the sun sinks behind the mountains,\nwhen twilight settles over earth",
+    "output": "när solen dalar bakom fjäll,\nnär skymningen sig sänker öfver jorden"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "when thirty thousand years\nlike smoke from the campfire's hearth\nvanish before me.",
+    "output": "när trettio årtusenden\nlikt rök från lägrens härd\nförsvinna inför mig."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "The brother-peoples, they who never were beheld\nby any living soul of earth's folk,\nwhose desert-march from age to age\nknows no goal, whose viking-voyage\nis lost in the limitless.",
+    "output": "De brödrafolken, de, som aldrig skådats\naf någon lefvandes af jordens folk,\nhvars öken-marsch från slägt till slägt\nej känner mål, hvars vikingatåg\nförloras i det gränslösa."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "This is the eternal, the immortal,\nand not that year from year.",
+    "output": "Detta är den eviga, odödliga\noch ej den år ifrån år."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Not them who conquered at Olympia,\nthey who won the heralds' praise,\nthey who got statues in Athens",
+    "output": "Ej dem som segrat på Olympia,\nde som fått häroldernas lov,\nde som fått staty i Athen"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "they who with shield and spear,\nwith laurel and the Olympic ivy's crown\nwent head and shoulders into songs",
+    "output": "de som med sköld och spjut,\nmed lager och olympisk hättas krona\ngått hufvudsöner in i sångarne"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Those without name, those without song.",
+    "output": "De utan namn, de utan sång."
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Gazes toward the forest, where spruce and fir\nDraw round the farm a sheltering wall",
+    "output": "tittar mot skogen, där gran och fur\ndrar kring gården en vallasmur"
+  },
+  {
+    "instruction": "Translate the following English text to Swedish.",
+    "input": "Ponders, though it cannot help,\nOver a curious riddle.",
+    "output": "grubblar, fast ej det lär båta,\növer en underlig gåta."
+  }
+]

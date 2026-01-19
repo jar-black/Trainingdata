@@ -1,16 +1,20 @@
 # Trainingdata
 
-Synthetic conversation datasets and notebooks for fine-tuning LLMs.
+Training datasets and notebooks for fine-tuning LLMs on Swedish poetry translation.
 
 ## Contents
 
-### Age Prediction Datasets
-- `data/age_prediction_dataset.jsonl`: 32 balanced age-labeled conversations formatted for instruction tuning.
-- `data/age_prediction_dataset_sv.jsonl`: Swedish-language variant with the same structure and label coverage.
-- `notebooks/unsloth_age_prediction_training.ipynb`: Jupyter workflow to train an age-range classifier on top of `unsloth/llama-3-3b-instruct` using a single RTX 3060 12GB GPU.
+### English to Swedish Poetry Translation
+- `data/english_to_swedish_poetry_translation.json`: 25 translation examples in Alpaca format for English-to-Swedish poetry translation
+- `notebooks/unsloth_translation_training.ipynb`: Complete Jupyter workflow to train a poetry translator using Unsloth with `llama-3.2-3b-instruct` on RTX 3060 12GB GPU
 
-### Gustaf Fröding Poetry Collection (In Progress)
-- `data/froding_poems_template.jsonl`: Template for 16 identified poem pairs (Swedish-English translations)
+### Swedish Poets Poetry Collections
+- `data/froding_poems_template.jsonl`: Gustaf Fröding poem pairs (Swedish-English)
+- `data/tegner_poems.jsonl`: Esaias Tegnér poem pairs
+- `data/rydberg_poems.jsonl`: Viktor Rydberg poem pairs
+- `data/heidenstam_poems_template.jsonl`: Verner von Heidenstam poem pairs
+- `data/karlfeldt_poems_template.jsonl`: Erik Axel Karlfeldt poem pairs
+- `poems/`: Original Swedish and English text files for 600+ poems
 - `scripts/collect_froding_poems.py`: Python utility to manage and export poem collection
 - `scripts/scrape_froding_poems.py`: Web scraper for automated poem collection
 - `scripts/download_archive_resources.sh`: Download public domain resources from Archive.org
@@ -19,18 +23,21 @@ Synthetic conversation datasets and notebooks for fine-tuning LLMs.
 
 ## Usage
 
-### Age Prediction Training
-1. Open the notebook in JupyterLab (or VS Code).
-2. Follow the installation cell to pull Unsloth and its dependencies.
-3. Run the configuration cell to load the JSONL dataset (set `DATA_PATH` to the Swedish file if you want to fine-tune on the localized data).
-4. Train the LoRA adapters with the provided hyperparameters tailored for 12GB VRAM.
-5. Export the adapter weights from `checkpoints/age-predictor` for deployment or merging.
+### English to Swedish Translation Training
+1. Open `notebooks/unsloth_translation_training.ipynb` in JupyterLab or VS Code
+2. Install Unsloth and dependencies using the first cell
+3. Configure training parameters (epochs, batch size, learning rate)
+4. Load the training data from `data/english_to_swedish_poetry_translation.json`
+5. Train the model using LoRA adapters optimized for 12GB VRAM
+6. Test translations with the provided examples
+7. Save model as LoRA adapters, merged 16-bit, or GGUF format
 
-### Gustaf Fröding Poems Collection
-1. Review `FRODING_COLLECTION_GUIDE.md` for detailed source information
-2. Download resources: `./scripts/download_archive_resources.sh`
-3. Populate `data/froding_poems_template.jsonl` with actual poem texts
-4. Check progress: `python3 scripts/collect_froding_poems.py --stats`
-5. Export to training format: `python3 scripts/collect_froding_poems.py --export-training data/froding_training.jsonl`
+### Swedish Poetry Collections
+The repository contains bilingual (Swedish-English) poem collections from major Swedish poets:
+- **Viktor Rydberg** (1828-1895): "Tomten" and other philosophical works
+- **Verner von Heidenstam** (1859-1940): Travel and national romantic poetry
+- **Esaias Tegnér** (1782-1846): "Frithiofs saga" and other epic works
+- **Gustaf Fröding** (1860-1911): Lyrical and folk-inspired poetry
+- **Erik Axel Karlfeldt** (1864-1931): Nature and rural life poetry
 
-**Status**: 16 poem pairs identified, ready for manual collection from public domain sources.
+These collections serve as the source material for the translation training data.
