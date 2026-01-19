@@ -5,8 +5,9 @@ Training datasets and notebooks for fine-tuning LLMs on Swedish poetry translati
 ## Contents
 
 ### English to Swedish Poetry Translation
-- `data/english_to_swedish_poetry_translation.json`: 56 translation examples in Alpaca format for English-to-Swedish poetry translation
+- `data/english_to_swedish_poetry_translation.json`: **790 translation examples** from **46 poems** in Alpaca format
 - `notebooks/unsloth_translation_training.ipynb`: Complete Jupyter workflow to train a poetry translator using Unsloth with `llama-3.2-3b-instruct` on RTX 3060 12GB GPU
+- `scripts/generate_training_data.py`: Automated script to generate training data from all poem files
 
 ### Swedish Poets Poetry Collections
 - `data/froding_poems_template.jsonl`: Gustaf Fröding poem pairs (Swedish-English)
@@ -24,13 +25,18 @@ Training datasets and notebooks for fine-tuning LLMs on Swedish poetry translati
 ## Usage
 
 ### English to Swedish Translation Training
-1. Open `notebooks/unsloth_translation_training.ipynb` in JupyterLab or VS Code
-2. Install Unsloth and dependencies using the first cell
-3. Configure training parameters (epochs, batch size, learning rate)
-4. Load the training data from `data/english_to_swedish_poetry_translation.json`
-5. Train the model using LoRA adapters optimized for 12GB VRAM
-6. Test translations with the provided examples
-7. Save model as LoRA adapters, merged 16-bit, or GGUF format
+1. **Generate training data** (optional - already done):
+   - Run `python3 scripts/generate_training_data.py` to regenerate from all poems
+   - Creates 790 examples from 46 complete poems
+2. **Train the model**:
+   - Open `notebooks/unsloth_translation_training.ipynb` in JupyterLab or VS Code
+   - Install Unsloth and dependencies
+   - The notebook includes automatic train/validation split (95%/5%)
+   - Optimized for RTX 3060 12GB: 2 epochs, batch size 2, gradient accumulation 4
+   - Training time: ~30-60 minutes depending on GPU
+3. **Test and export**:
+   - Test translations with provided examples
+   - Save as LoRA adapters, merged 16-bit, or GGUF format
 
 ### Swedish Poetry Collections
 The repository contains bilingual (Swedish-English) poem collections from major Swedish poets:
