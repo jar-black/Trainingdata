@@ -1,92 +1,102 @@
-# Esaias Tegnér Poems Collection
-
-This directory contains Esaias Tegnér's poems in paired Swedish-English format.
+# Esaias Tegnér (1782-1846) - Poem Collection
 
 ## About Esaias Tegnér
 
-**Esaias Tegnér** (1782-1846) was a Swedish teacher, bishop, and the most popular poet of his period. He was a leading representative of Swedish Romanticism.
+Esaias Tegnér was a Swedish writer, professor of Greek language, and bishop. During the 19th century, he was regarded as the father of modern poetry in Sweden. His most famous work is the epic poem "Frithiof's Saga" (1825), which has been translated into English numerous times.
 
-### Major Works:
-- **Svea** (1811) - Patriotic poem that won Swedish Academy prize
-- **Nattvardsbarn / The Children of the Lord's Supper** (1820) - Translated by Henry Wadsworth Longfellow (1841)
-- **Frithiofs saga / Frithiof's Saga** (1825) - His greatest work, translated 22 times into English
+## Sources (All Public Domain)
+
+### Swedish Originals:
+
+1. **Swedish Wikisource** - https://sv.wikisource.org/wiki/Författare:Esaias_Tegnér
+   - Complete texts of major poems including "Svea", "Sång till solen"
+
+2. **Projekt Runeberg** - http://runeberg.org/authors/tegner.html
+   - Digital library of Scandinavian literature
+   - "Samlade skrifter" (Collected Works)
+   - Individual poem collections
+
+3. **svenskadikter.com** - Swedish poetry database
+   - Various shorter poems
+
+### English Translations:
+
+1. **English Wikisource** - https://en.wikisource.org/wiki/Author:Esaias_Tegnér
+   - "The Children of the Lord's Supper" (trans. Longfellow)
+   - "Frithiof's Saga" (various translators)
+
+2. **"Poems by Tegnér" (1914)** - American-Scandinavian Foundation
+   - Internet Archive: https://archive.org/details/poemsbytegnrch00tegnuoft
+   - "The Children of the Lord's Supper" - trans. Henry Wadsworth Longfellow
+   - "Frithiof's Saga" - trans. Rev. W. Lewery Blackley
+   - Also on Projekt Runeberg: http://runeberg.org/tepoems/
+
+3. **"Anthology of Swedish Lyrics from 1750 to 1915" (1917)**
+   - Compiled and translated by Charles Wharton Stork
+   - Internet Archive: https://archive.org/details/anthologyofswedi00stor
+   - Contains 13+ Tegnér poems including:
+     - "Birds of Passage" (Flyttfåglarna)
+     - "The Giant" (Jätten)
+     - "The Eternal" (Det eviga)
+     - "Song to the Sun" (Sång till solen)
+     - Other shorter lyrics
+
+4. **"Specimens of Swedish and German Poetry" (1848)**
+   - Translator: John Elliot Drinkwater Bethune
+   - Internet Archive: https://archive.org/details/specimensswedis00bethgoog
+
+5. **"Axel, and Svea" (1882)**
+   - Translator: Oscar Baker
+   - Google Books available
+
+## Major Works
+
+### 1. Frithiofs saga (Frithiof's Saga) - 1825
+- Tegnér's masterpiece
+- Epic romance cycle based on Old Norse legend
+- Translated into English 20+ times
+- 24 cantos telling the story of Frithiof and Ingeborg
+
+### 2. Nattvardsbarn (The Children of the Lord's Supper) - 1820
+- Long narrative poem about confirmation
+- Famous English translation by Henry Wadsworth Longfellow (1841)
+- Made Tegnér internationally known
+
+### 3. Svea - 1811
+- Patriotic poem about Sweden's loss of Finland
+- Won the Swedish Academy's grand prize
+- Made Tegnér famous in Sweden
+
+### 4. Sång till solen (Song to the Sun) - 1817
+- Celebrated hymn to the sun
+- Inspired Carl Milles' sculpture "The Sun Singer"
+
+## Shorter Lyrics
+
+- Flyttfåglarna (Birds of Passage)
+- Jätten (The Giant)
+- Det eviga (The Eternal)
+- Den döde (The Dead)
+- Axel - Narrative poem about Charles XII
+- Epilog vid magisterpromotionen i Lund 1820
+
+## Collection Status
+
+Total poems identified: 10+
+Poems with Swedish original: Available on Wikisource and Runeberg
+Poems with English translation: Available in various anthologies
+Complete pairs (Swedish + English): Work in progress
 
 ## File Format
 
-Each poem is stored as a pair of files:
-- `poem1-swedish.txt` - Swedish original
-- `poem1-english.txt` - English translation
-- `poem2-swedish.txt` - Swedish original
-- `poem2-english.txt` - English translation
-- ...and so on
+- Swedish originals: `{poem_id}-swedish.txt`
+- English translations: `{poem_id}-english.txt`
+- Metadata: `../data/tegner_poems_template.jsonl`
 
-## Key Sources
+## Notes
 
-### English Translations (Public Domain)
+All sources are in the public domain. Tegnér died in 1846, and most translations are from the 19th and early 20th centuries.
 
-1. **"Poems by Tegnér"** - Archive.org
-   - Contains "The Children of the Lord's Supper" (translated by Longfellow)
-   - Contains "Frithiof's Saga" (translated by Rev. W. Lewery Blackley)
-   - URL: https://archive.org/details/poemsbytegnrch00tegnuoft
+## Collection Script
 
-2. **"Anthology of Swedish Lyrics from 1750 to 1915"** (1917)
-   - 13 Tegnér poems translated by Charles Wharton Stork
-   - URL: https://archive.org/details/anthologyofswedi00stor
-
-3. **English Wikisource**
-   - URL: https://en.wikisource.org/wiki/Author:Esaias_Tegnér
-
-### Swedish Originals (Public Domain)
-
-1. **Projekt Runeberg**
-   - URL: http://runeberg.org/authors/tegner.html
-   - Complete works available
-
-2. **Swedish Wikisource**
-   - URL: https://sv.wikisource.org/wiki/Författare:Esaias_Tegnér
-   - Individual poems
-
-## Known Poems with English Translations
-
-1. **Svea** (1811) - Patriotic poem
-2. **Nattvardsbarn / The Children of the Lord's Supper** (1820) - Trans: Longfellow
-3. **Frithiofs saga / Frithiof's Saga** (1825) - Trans: Multiple (22 English translations exist)
-4. **Axel** (1822) - Narrative poem
-5. Plus 13 poems from Stork's Anthology (1917)
-
-## How to Collect Poems
-
-### Method 1: Use the Collection Script
-
-```bash
-cd /home/user/Trainingdata
-python3 scripts/collect_tegner_poems.py
-```
-
-### Method 2: Manual Collection
-
-1. Visit Archive.org sources above
-2. Download or view the PDFs/texts
-3. Create paired files manually:
-   ```bash
-   echo "Swedish text" > poems/tegner/poem1-swedish.txt
-   echo "English text" > poems/tegner/poem1-english.txt
-   ```
-
-## Copyright Status
-
-All materials are **public domain**:
-- Esaias Tegnér died in 1846 (works entered public domain)
-- Longfellow translations from 1841 (public domain)
-- Stork translations from 1917 (public domain in USA)
-- All other 19th century translations (public domain)
-
-## Notable Translators
-
-- **Henry Wadsworth Longfellow** (1807-1882) - "The Children of the Lord's Supper"
-- **Rev. W. Lewery Blackley** - "Frithiof's Saga"
-- **Charles Wharton Stork** (1881-1971) - 13 poems in Anthology (1917)
-
-## Goal
-
-Collect at least 15-20 poem pairs initially. The Anthology of Swedish Lyrics alone contains 13 poems.
+See `../scripts/collect_tegner_poems.py` for the automated collection script.
