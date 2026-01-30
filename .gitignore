@@ -1,0 +1,31 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model outputs and caches
+outputs/
+translation_model/
+translation_model_lora/
+translation_model_merged_16bit/
+unsloth_compiled_cache/
+*.gguf
+Modelfile
+
+# llama.cpp build
+llama.cpp/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
