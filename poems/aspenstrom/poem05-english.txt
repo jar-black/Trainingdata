@@ -1,0 +1,16 @@
+The Dog and the Philosopher
+
+A dog walks by.
+He doesn't know he is a dog.
+He doesn't know he is walking by.
+He just walks.
+
+A philosopher sees the dog.
+He knows it is a dog.
+He knows it is walking by.
+He ponders what it means.
+
+And the dog continues to walk
+and the philosopher continues to ponder
+and neither of them will ever know
+which of them is right.
